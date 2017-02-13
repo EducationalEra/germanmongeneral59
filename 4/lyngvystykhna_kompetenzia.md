@@ -14,8 +14,6 @@
             </tr>
             <tr>
                 <td width="25%" style="vertical-align:top !important;">
-Повсякденні дії.<br>
-Види дозвілля. <br>
 Кореспонденція. <br>
 Літературні жанри. <br>
 Обладнання та послуги бібіліотеки. <br>
@@ -25,21 +23,23 @@
 Країни. <br>
 Національності.<br>
 Типи шкіл.<br>
-Назви навчальних  кімнат та шкільного обладнання</td>
+Система оцінювання.<br>
+Правила поведінки у школі</td>
 <td width="50%" style="vertical-align:top !important;">
+<b>Іменник:</b><br>
+іменники іншомовного походження.<br>
 <b>Дієслово:</b><br>
-Active and Passive Vоісе.<br>
-Модальні дієслова: will, might, shall, should, let's, could.<br>
-<b>Займенник:</b><br>
-неозначені.<br>
+інфінітивний зворот um... zu + Infinitiv.<br>
 <b>Прикметник:</b><br>
-в структурах ‘as... as', ‘so...as' зі словами rather, almost, quite. <br>
+субстантивація прикметників.<br>
+<b>Займенник:</b><br>
+відносні займенники der, die, das, welche, welches.<br>
 <b>Прислівник:</b> <br>
-місця (everywhere, anywhere, somewhere, nowhere). <br>
-<b>Числівник:</b><br> 
-кількісні до 1 000 000.<br>
-<b>Adverbial Clause</b> with 'when'. <br>
-<b>Pro-clause</b> with 'so', 'not' (I think so. I hope not.)
+займенникові прислівники. <br>
+<b>Прийменник:</b><br>
+прийменники з Genitiv: während, wegen, trotz.<br>
+<b>Речення:</b><br>
+підрядні означальні (Attributsätze). Підрядні речення мети (Finalsätze) зі сполучником damit
 </td>
 <td width="25%" style="vertical-align:top !important;">Особливості інтонації складносурядних та складнопідрядних речень</td>
             </tr>
